@@ -1,0 +1,6 @@
+crowdai_api
+minerl==0.2.4
+coloredlogs
+matplotlib
+opencv-python
+pyro4
